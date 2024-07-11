@@ -33,6 +33,13 @@ public class Test {
             }
         }
 
+        // adding code to demonstrate supplier functional interface
+        System.out.println("Supplier Functional Interface Demooooo");
+        System.out.println("Supplier Functional Interface Demooooo");
+        System.out.println("Supplier Functional Interface Demooooo");
+        System.out.println("Supplier Functional Interface Demooooo");
+        System.out.println("Supplier Functional Interface Demooooo");
+
 
     }
 }

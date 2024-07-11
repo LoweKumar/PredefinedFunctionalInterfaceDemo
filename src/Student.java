@@ -1,5 +1,3 @@
-import java.util.function.*;
-
 public class Student {
     String name;
     int marks;

@@ -1,4 +1,7 @@
-import class Student;
+//import Student;
+
+import java.util.function.*;
+
 public class Test {
     public static void main(String[] args){
         Function<Student, String> f = s-> {
